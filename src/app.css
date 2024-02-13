@@ -1,0 +1,15 @@
+:root {
+  /* --background: hsl(195, 78%, 25%); */
+  --background: #133373;
+  --color: #effad7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background: var(--background);
+  color: var(--color);
+}
